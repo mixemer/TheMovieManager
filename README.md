@@ -3,12 +3,12 @@
 
 ### What Used?
 - Swift 5 and Xcode
-- CocoaPods
-- SwipeCellKit: to delete a table view cell with a swipe
-- RealmSwift: to persist data for a better user-experience
-- ChameleonFramework: to color table view cells in a beautiful way
+- HTTP Requests with URLSession and URLRequest
+- The Movie Database (TMDb) API Endpoints
+
 
 ### What it does?
+
 
 ### Demo
 Welcome Page                 |2                               | 3
